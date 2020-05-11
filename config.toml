@@ -9,6 +9,8 @@ custom_css = "/static/css/custom.css"
 # Google Analytics API key.
 #googleAnalytics = "Your Google Analytics tracking id"
 
+
+
 [params]
   # Disqus shortname
   author = "相馬 大知 (Taichi Soma)"
@@ -19,3 +21,30 @@ custom_css = "/static/css/custom.css"
   subtitle = "Short subtitle"
   # Logo image. This is displayed ogp image.
   logo = "/images/profile.jpg"
+
+
+
+[[menu.main]]
+    name = "Home"
+    url = "http://on-going.jp"
+    weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = "http://blog.on-going.jp"
+    weight = 2
+
+[[menu.main]]
+    name = "Tech Blog"
+    url = "http://techblog.on-going.jp"
+    weight = 3
+
+[[menu.main]]
+    name = "Portfolio"
+    url = "http://on-going.jp/portfolio/"
+    weight = 4
+
+[[menu.main]]
+    name = "About"
+    url = "http://on-going.jp/about/"
+    weight = 5

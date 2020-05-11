@@ -2,4 +2,4 @@
 
 ## Environment
 - HUGO
-    - Theme: Pickles
+    - Theme: [Pickles](https://themes.gohugo.io/hugo_theme_pickles/)

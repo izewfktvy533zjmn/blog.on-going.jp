@@ -1,3 +1,21 @@
 baseURL = "http://blog.on-going.jp/"
 languageCode = "jp"
 title = "on-going's Blog"
+
+# Copyright notice. This is displayer in the footer.
+copyright = "<em>&copy; 2020 on-going.</em>"
+custom_css = "/static/css/custom.css"
+
+# Google Analytics API key.
+#googleAnalytics = "Your Google Analytics tracking id"
+
+[params]
+  # Disqus shortname
+  author = "相馬 大知 (Taichi Soma)"
+  authorwebsite = "www.on-going.jp"
+  avatar = "/images/profile.jpg"
+  bio = "Your short bio"
+  # Short subtitle/tagline. This is displayed in the header.
+  subtitle = "Short subtitle"
+  # Logo image. This is displayed ogp image.
+  logo = "/images/profile.jpg"

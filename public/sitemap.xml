@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.on-going.jp/categories/</loc>
+    <loc>http://blog.on-going.jp/posts/starting-a-blog/</loc>
+    <lastmod>2020-05-13T01:58:05+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.on-going.jp/</loc>
+    <lastmod>2020-05-13T01:58:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.on-going.jp/posts/</loc>
+    <lastmod>2020-05-13T01:58:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.on-going.jp/categories/</loc>
   </url>
   
   <url>

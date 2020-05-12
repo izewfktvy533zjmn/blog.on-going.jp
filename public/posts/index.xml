@@ -7,18 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <copyright>&lt;em&gt;&amp;copy; 2020 on-going.&lt;/em&gt;</copyright>
-    <lastBuildDate>Mon, 11 May 2020 22:00:58 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 01:58:05 +0900</lastBuildDate>
     
 	<atom:link href="http://blog.on-going.jp/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://blog.on-going.jp/posts/my-first-post/</link>
-      <pubDate>Mon, 11 May 2020 22:00:58 +0900</pubDate>
+      <title>#1 ブログはじめます！</title>
+      <link>http://blog.on-going.jp/posts/starting-a-blog/</link>
+      <pubDate>Wed, 13 May 2020 01:58:05 +0900</pubDate>
       
-      <guid>http://blog.on-going.jp/posts/my-first-post/</guid>
-      <description>First</description>
+      <guid>http://blog.on-going.jp/posts/starting-a-blog/</guid>
+      <description>どうも、相馬です。
+この度、自宅プライベートクラウド上でブログの運用を行うことにしました。
+ このブログで取り上げる内容 本プログでは、下記の内容に関して取り上げていきたいと考えています。
+ 技術系以外の内容 読んだ本や感銘を受けた思想、偉人の紹介 ライフログなど  ※技術ブログはこちらで運用しています。
+ 最後に おそらく、そんな頻繁に投稿できないと思われますが読者になっていただけると幸いです。
+記事に対するコメントや感想、取り上げてほしい内容のリクエストなどお待ちしています。</description>
     </item>
     
   </channel>

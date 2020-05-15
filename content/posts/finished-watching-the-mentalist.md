@@ -1,7 +1,7 @@
 ---
 title: "#2 ドラマ『The Mentalist』を観終えました"
 date: 2020-05-15T23:16:27+09:00
-thumbnail: images/the_mentalist_1st_season.jpg
+thumbnail: /images/the_mentalist_1st_season.jpg
 draft: false
 ---
 
@@ -46,9 +46,5 @@ draft: false
 Amazon Prime Videoで観れます。
 
 Huluでも観れるそうです。
-
-&nbsp;
-
-[![The Mentalist: 1st Season](/images/the_mentalist_1st_season.jpg)](https://www.amazon.co.jp/gp/video/detail/B00EUISTA6/ref=atv_dp_season_select_s1)
 
 &nbsp;

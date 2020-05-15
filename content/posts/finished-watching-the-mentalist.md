@@ -1,6 +1,7 @@
 ---
 title: "#2 ドラマ『The Mentalist』を観終えました"
 date: 2020-05-15T23:16:27+09:00
+thumbnail: images/the_mentalist_1st_season.jpg
 draft: false
 ---
 

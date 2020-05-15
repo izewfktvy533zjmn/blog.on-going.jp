@@ -1,7 +1,7 @@
 ---
 title: "#3 ドラマ『素敵な選TAXI』を観始めました"
 date: 2020-05-16T01:27:46+09:00
-thumbnail: /images/sutekina-sen-taxi.jpg
+thumbnail: /images/starting-watching-sutekina-sen-taxi/sutekina-sen-taxi.jpg
 draft: false
 ---
 
@@ -33,7 +33,7 @@ draft: false
 
 どうやら、話によって**乗客ゲスト**が異なるようで、第5話は吉田羊さんが乗車ゲストとして出演されていました。
 
-[![素敵な選TAXI](/images/sutekina-sen-taxi_episode_5.jpg)](https://www.amazon.co.jp/gp/video/detail/B01J4DE8YM/ref=atv_hm_hom_1_c_DEaieV_4_1)
+[![素敵な選TAXI](/images/starting-watching-sutekina-sen-taxi/sutekina-sen-taxi_episode_5.jpg)](https://www.amazon.co.jp/gp/video/detail/B01J4DE8YM/ref=atv_hm_hom_1_c_DEaieV_4_1)
 
 第5話ではなかなか状況が変わらないようで、過去に戻って行う動作や選択肢は異なるが、最終的に到達する地点や得られる結果は同じとなる。
 

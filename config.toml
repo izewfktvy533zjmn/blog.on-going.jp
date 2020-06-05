@@ -1,4 +1,4 @@
-baseURL = "http://blog.on-going.jp/"
+baseURL = "https://blog.on-going.jp/"
 languageCode = "jp"
 title = "on-going's Blog"
 hasCJKLanguage = true

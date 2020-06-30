@@ -1,7 +1,7 @@
 ---
 title: "#6 2020年5月に読んだ本"
 date: 2020-05-30T16:05:20+09:00
-thumbnail: /images/the-read-book-in-May/thumbnail.jpg
+thumbnail: /images/the-read-book-in-may/thumbnail.jpg
 draft: false
 ---
 

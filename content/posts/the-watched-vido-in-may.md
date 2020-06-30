@@ -1,7 +1,7 @@
 ---
 title: "#5 2020年5月に視聴した映画やドラマなど"
 date: 2020-05-30T15:26:16+09:00
-thumbnail: /images/the-watched-vido-in-May/thumbnail.jpg
+thumbnail: /images/the-watched-vido-in-may/thumbnail.jpg
 draft: false
 ---
 

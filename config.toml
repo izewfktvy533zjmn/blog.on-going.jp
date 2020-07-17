@@ -17,9 +17,9 @@ googleAnalytics = "UA-166112919-2"
   author = "相馬 大知 (Taichi Soma)"
   authorwebsite = "www.on-going.jp"
   avatar = "/images/profile.jpg"
-  bio = "Your short bio"
+  bio = "ダイガクインセイ"
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Short subtitle"
+  subtitle = "無名天地之始、有名万物之母"
   # Logo image. This is displayed ogp image.
   logo = "/images/profile.jpg"
 

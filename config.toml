@@ -22,6 +22,7 @@ googleAnalytics = "UA-166112919-2"
   subtitle = "無名天地之始、有名万物之母"
   # Logo image. This is displayed ogp image.
   logo = "/images/profile.jpg"
+  commpost = true
 
 
 
